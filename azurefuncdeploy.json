@@ -448,7 +448,7 @@
       "properties": {
         "publicNetworkAccess": "Disabled",
         "allowBlobPublicAccess": "bool",
-        "minimumTlsVersion": "string",
+        "minimumTlsVersion": "TLS1_2",
         "networkAcls": {
           "bypass": "None",
           "defaultAction": "Deny"
